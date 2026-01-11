@@ -4,78 +4,94 @@
 <h3 align="center">Backend Developer & Cybersecurity Analyst</h3>
 
 <p align="center">
-🇮🇹 Italian | 🇬🇧 English<br>
-📍 Pisa, Italy
+🇮🇹 Italian · 🇬🇧 English · 📍 Pisa, Italy
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-Hello! I'm **IRVANNI** (online alias), my real name is **Andrea**.
+I'm **Andrea Vanni**, known online as **IRVANNI**.  
+I'm deeply passionate about **backend development** and **cybersecurity**, with a strong focus on secure systems,
+privacy-oriented architectures, and problem solving.
 
-I'm an Italian enthusiast deeply passionate about **computer science**, with a strong focus on  
-**backend development** and **cybersecurity**.
-
-I enjoy solving complex problems and continuously expanding my technical expertise.  
-In my spare time, I actively participate in **programming and cybersecurity competitions**,  
-which allows me to sharpen my skills and stay up to date in these ever‑evolving fields.
+I constantly improve my skills through hands-on projects and cybersecurity competitions.
 
 ---
 
 ## 🧠 Skills
 
 ### 🔹 Programming Languages
-- **Python** — Advanced  
-- **Node.js** — Advanced  
-- **C++** — Intermediate  
-- **Java** — Intermediate  
-- **Assembly** — Intermediate  
-- **Dart** — Intermediate  
-- **C** — Beginner  
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br>Python</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br>Java</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/><br>C</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40"/><br>Dart</td>
+</tr>
+</table>
 
 ### 🔹 Web & App Development
-- **HTML / CSS / JavaScript** — Advanced  
-- **Flask** — Advanced  
-- **Express.js** — Advanced  
-- **PHP** — Intermediate  
-- **Flutter** — Intermediate  
-- **Laravel** — Beginner  
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/><br>HTML</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/><br>CSS</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/><br>Flask</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/><br>Express</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/><br>PHP</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/><br>Flutter</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40"/><br>Laravel</td>
+</tr>
+</table>
 
 ### 🔹 Other Skills
-- **SQL**
-- **OSINT**
-- **Problem Solving**
-- **Team Working**
-- **Docker**
-- **Git**
-- **Bash**
-- **Digital Forensics**
-- **Vulnerability Assessment**
-- **AI** (Beginner)
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/><br>SQL</td>
+<td align="center">🔎<br>OSINT</td>
+<td align="center">🧩<br>Problem Solving</td>
+<td align="center">👥<br>Team Working</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/><br>Docker</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br>Git</td>
+<td align="center">🛡️<br>Digital Forensics</td>
+<td align="center">🐞<br>Vulnerability Assessment</td>
+<td align="center">🤖<br>AI</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats (Stable)
 
-> ℹ️ To avoid *Error Fetching Resource*, no external dynamic images are used here.
+> These stats use **GitHub Metrics** (very reliable, single SVG).
 
-- Active backend-focused repositories  
-- Experience with secure architectures and privacy-oriented systems  
-- Continuous learning through competitions and hands-on projects  
+<p align="center">
+  <img src="https://metrics.lecoq.io/HirAvanCniK?template=classic&languages=1&activity=1&repositories=1&followup=1&languages.limit=8&languages.threshold=0%25&config.timezone=Europe%2FRome" />
+</p>
 
-You can explore my work directly here:  
-👉 **https://github.com/HirAvanCniK**
+---
+
+## 🏷️ Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Developer-blue" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-red" />
+  <img src="https://img.shields.io/badge/Linux-User-black" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green" />
+</p>
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: **vanniandrea244466666@gmail.com**
-- 💻 GitHub: **https://github.com/HirAvanCniK**
-- 🐦 X / Twitter: **https://x.com/AndreaVanni15**
-- 💼 LinkedIn: **https://it.linkedin.com/**
+- 📧 **vanniandrea244466666@gmail.com**
+- 💻 **GitHub:** https://github.com/HirAvanCniK
+- 🐦 **X / Twitter:** https://x.com/AndreaVanni15
+- 💼 **LinkedIn:** https://it.linkedin.com/
 
 ---
 
-⭐ *Thanks for visiting my profile!*  
+⭐ *Thanks for visiting my GitHub profile!*  
