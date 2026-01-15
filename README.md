@@ -32,11 +32,8 @@ I constantly improve my skills through hands-on projects and cybersecurity compe
     </td>
   </tr>
   <tr>
-    <td>
+    <td colspan="2">
       <img src="https://raw.githubusercontent.com/HirAvanCniK/HirAvanCniK/refs/heads/main/metrics.plugin.traffic.svg" />
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/HirAvanCniK/HirAvanCniK/refs/heads/main/metrics.plugin.leetcode.svg" />
     </td>
   </tr>
 </table>
