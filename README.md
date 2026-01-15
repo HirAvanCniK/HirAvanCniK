@@ -25,10 +25,18 @@ I constantly improve my skills through hands-on projects and cybersecurity compe
 <table align="center">
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/HirAvanCniK/HirAvanCniK/refs/heads/main/metrics.plugin.languages.svg" />
+      <img src="https://raw.githubusercontent.com/HirAvanCniK/HirAvanCniK/refs/heads/main/metrics.plugin.isocalendar.fullyear.svg" />
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/HirAvanCniK/HirAvanCniK/refs/heads/main/metrics.plugin.isocalendar.fullyear.svg" />
+      <img src="https://raw.githubusercontent.com/HirAvanCniK/HirAvanCniK/refs/heads/main/metrics.plugin.languages.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/HirAvanCniK/HirAvanCniK/refs/heads/main/metrics.plugin.traffic.svg" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/HirAvanCniK/HirAvanCniK/refs/heads/main/metrics.plugin.leetcode.svg" />
     </td>
   </tr>
 </table>
