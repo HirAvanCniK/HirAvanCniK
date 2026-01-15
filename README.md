@@ -61,10 +61,8 @@ I constantly improve my skills through hands-on projects and cybersecurity compe
 
 ## 📊 GitHub Stats (Stable)
 
-> These stats use **GitHub Metrics** (very reliable, single SVG).
-
 <p align="center">
-  <img src="https://metrics.lecoq.io/HirAvanCniK?template=classic&languages=1&activity=1&repositories=1&followup=1&languages.limit=8&languages.threshold=0%25&config.timezone=Europe%2FRome" />
+  <img src="https://raw.githubusercontent.com/HirAvanCniK/HirAvanCniK/refs/heads/main/github-metrics.svg" />
 </p>
 
 ---
