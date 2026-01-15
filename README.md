@@ -1,7 +1,11 @@
-<!-- GitHub Profile README -->
-
 <h1 align="center">👋 Andrea Vanni aka <b>IRVANNI</b></h1>
 <h3 align="center">Backend Developer & Cybersecurity Analyst</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Developer-blue" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Analyst-red" />
+  <img src="https://img.shields.io/badge/Linux-User-black" />
+</p>
 
 <p align="center">
 🇮🇹 Italian · 🇬🇧 English · 📍 Pisa, Italy
@@ -16,6 +20,14 @@ I'm deeply passionate about **backend development** and **cybersecurity**, with 
 privacy-oriented architectures, and problem solving.
 
 I constantly improve my skills through hands-on projects and cybersecurity competitions.
+
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HirAvanCniK/HirAvanCniK/refs/heads/main/metrics.plugin.isocalendar.fullyear.svg" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HirAvanCniK/HirAvanCniK/refs/heads/main/metrics.plugin.languages.svg" />
+</p>
 
 ---
 
@@ -56,24 +68,6 @@ I constantly improve my skills through hands-on projects and cybersecurity compe
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br>Git</td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Stats (Stable)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HirAvanCniK/HirAvanCniK/refs/heads/main/github-metrics.svg" />
-</p>
-
----
-
-## 🏷️ Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-Developer-blue" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Analyst-red" />
-  <img src="https://img.shields.io/badge/Linux-User-black" />
-</p>
 
 ---
 
