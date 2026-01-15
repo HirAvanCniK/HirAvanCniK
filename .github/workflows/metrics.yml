@@ -24,6 +24,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
+          plugin_languages_sections: recently-used, most-used
       - name: Isometric Full Year Commit Calendar
         uses: lowlighter/metrics@master
         with:
@@ -39,3 +40,11 @@ jobs:
           filename: metrics.plugin.traffic.svg
           base: repositories
           plugin_traffic: yes
+      - name: Leet Code
+        uses: lowlighter/metrics@master
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.plugin.leetcode.svg
+          base: ""
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
