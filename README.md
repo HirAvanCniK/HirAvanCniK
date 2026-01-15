@@ -71,9 +71,8 @@ I constantly improve my skills through hands-on projects and cybersecurity compe
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-Developer-blue" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-red" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Analyst-red" />
   <img src="https://img.shields.io/badge/Linux-User-black" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green" />
 </p>
 
 ---
@@ -81,9 +80,7 @@ I constantly improve my skills through hands-on projects and cybersecurity compe
 ## 📫 Contact
 
 - 📧 **vanniandrea244466666@gmail.com**
-- 💻 **GitHub:** https://github.com/HirAvanCniK
 - 🐦 **X / Twitter:** https://x.com/AndreaVanni15
-- 💼 **LinkedIn:** https://it.linkedin.com/
 
 ---
 
