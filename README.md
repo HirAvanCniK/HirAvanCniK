@@ -23,10 +23,8 @@ I constantly improve my skills through hands-on projects and cybersecurity compe
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HirAvanCniK/HirAvanCniK/refs/heads/main/metrics.plugin.isocalendar.fullyear.svg" />
-</p>
-<p align="center">
   <img src="https://raw.githubusercontent.com/HirAvanCniK/HirAvanCniK/refs/heads/main/metrics.plugin.languages.svg" />
+  <img src="https://raw.githubusercontent.com/HirAvanCniK/HirAvanCniK/refs/heads/main/metrics.plugin.isocalendar.fullyear.svg" />
 </p>
 
 ---
