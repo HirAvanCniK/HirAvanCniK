@@ -17,7 +17,13 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.languages.svg
+          base: ""
           plugin_languages: yes
-          plugin_languages_indepth: yes,
-          plugin_languages_sections: most-used,recently-used,
+          plugin_languages_indepth: yes
+          plugin_languages_sections: most-used,recently-used
+          plugin_languages_analysis_timeout: 15
+          output_action: none
+          delay: 120
+          user: HirAvanCniK
+          plugin_languages_details: lines, bytes-size
           token: ${{ secrets.METRICS_TOKEN }}
