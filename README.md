@@ -22,10 +22,10 @@ privacy-oriented architectures, and problem solving.
 I constantly improve my skills through hands-on projects and cybersecurity competitions.
 
 ---
-<p align="center">
+<div align="center" style="display: flex; align-items: center">
   <img src="https://raw.githubusercontent.com/HirAvanCniK/HirAvanCniK/refs/heads/main/metrics.plugin.languages.svg" />
   <img src="https://raw.githubusercontent.com/HirAvanCniK/HirAvanCniK/refs/heads/main/metrics.plugin.isocalendar.fullyear.svg" />
-</p>
+</div>
 
 ---
 
