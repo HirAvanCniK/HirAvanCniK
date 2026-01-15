@@ -40,11 +40,12 @@ jobs:
           filename: metrics.plugin.traffic.svg
           base: repositories
           plugin_traffic: yes
-      - name: Leet Code
+      - name: LeetCode
         uses: lowlighter/metrics@master
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: NOT_NEEDED
           filename: metrics.plugin.leetcode.svg
           base: ""
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
+          user: HirAvanCniK
