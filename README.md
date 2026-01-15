@@ -52,13 +52,8 @@ I constantly improve my skills through hands-on projects and cybersecurity compe
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/><br>SQL</td>
 <td align="center">🔎<br>OSINT</td>
-<td align="center">🧩<br>Problem Solving</td>
-<td align="center">👥<br>Team Working</td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/><br>Docker</td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br>Git</td>
-<td align="center">🛡️<br>Digital Forensics</td>
-<td align="center">🐞<br>Vulnerability Assessment</td>
-<td align="center">🤖<br>AI</td>
 </tr>
 </table>
 
