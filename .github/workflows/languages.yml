@@ -18,5 +18,6 @@ jobs:
         with:
           filename: metrics.plugin.languages.svg
           plugin_languages: yes
-          plugin_languages_indepth: yes
+          plugin_languages_indepth: yes,
+          plugin_languages_sections: most-used,recently-used,
           token: ${{ secrets.METRICS_TOKEN }}
