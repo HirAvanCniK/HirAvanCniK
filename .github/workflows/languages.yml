@@ -23,7 +23,6 @@ jobs:
           plugin_languages_sections: most-used,recently-used
           plugin_languages_analysis_timeout: 15
           output_action: none
-          delay: 120
           user: HirAvanCniK
           plugin_languages_details: lines, bytes-size
           token: ${{ secrets.METRICS_TOKEN }}
