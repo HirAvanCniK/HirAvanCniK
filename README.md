@@ -32,7 +32,7 @@ I constantly improve my skills through hands-on projects and cybersecurity compe
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td colspan="2" align="center">
       <img src="https://raw.githubusercontent.com/HirAvanCniK/HirAvanCniK/refs/heads/main/metrics.plugin.languages.svg" />
     </td>
   </tr>
